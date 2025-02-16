@@ -1,5 +1,5 @@
 import './App.css'
-import {Routes, Route} from 'react-router'
+import {Routes, Route} from 'react-router-dom'
 import AllPets from './pages/AllPets'
 import PetDetails from './pages/PetDetails'
 import CreatePet from './pages/CreatePet'
